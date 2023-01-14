@@ -22,7 +22,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowznight&show_icons=true&locale=en&layout=compact" alt="Shadow Stats" /></p>
 -->
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowz-git&show_icons=true&locale=en" alt="Shadow's Stats" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowz-git&" alt="Shadow's Streak Stats" /></p>
 
