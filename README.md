@@ -1,4 +1,6 @@
-<img align="left" src="imgs/profile2.gif" width="" height="auto" >
+<p align="center">
+  <img align="left" src="imgs/6f6bc04d789faf7e82d4e0591e7a9930.gif" width="" height="auto" >
+</p>
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!;I'm+Shadow.;Welcome+to+my+profile." />
 <h1 align="center">Shadow</h1>
