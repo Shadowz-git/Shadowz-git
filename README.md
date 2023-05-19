@@ -25,4 +25,4 @@
 -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowz-git&show_icons=true&locale=en&bg_color=30,feac5e,c779d0,4bc0c8&title_color=fff&text_color=fff" alt="Shadow's Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowz-git&show_icons=true&locale=en&bg_color=30,feac5e,c779d0,4bc0c8&title_color=fff&text_color=fff&count_private" alt="Shadow's Stats" /></p>
