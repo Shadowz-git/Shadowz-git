@@ -2,7 +2,7 @@
   <img align="left" src="imgs/6f6bc04d789faf7e82d4e0591e7a9930.gif" width="" height="auto" >
 </p>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!;I'm+Shadow.;Welcome+to+my+profile." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!;I'm+Shadw.;Welcome+to+my+profile." />
 <h1 align="center">Shad<s>o</s>w</h1>
 <h3 align="center">A 20-year-old, gamer and student in Computer Science</h3>
 
