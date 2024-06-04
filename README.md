@@ -1,10 +1,14 @@
+<!--
 <p align="center">
   <img align="left" src="imgs/6f6bc04d789faf7e82d4e0591e7a9930.gif" width="" height="auto" >
 </p>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!;I'm+Shadw.;Welcome+to+my+profile." />
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!;I'm+Shadw.;Welcome+to+my+profile." />
+</p>
 <h1 align="center">Shad<s>o</s>w</h1>
-<h3 align="center">A 20-year-old, gamer and student in Computer Science</h3>
+<h3 align="center">A 20-year-old, gamer and student in Computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowznight&label=Profile%20views&color=0e75b6&style=flat" alt="shadowznight" /> </p>
 
@@ -22,7 +26,5 @@
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowznight&show_icons=true&locale=en&layout=compact" alt="Shadow Stats" /></p>
--->
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowz-git&show_icons=true&locale=en&bg_color=30,feac5e,c779d0,4bc0c8&title_color=fff&text_color=fff&count_private" alt="Shadow's Stats" /></p>
+-->
