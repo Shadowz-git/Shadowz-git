@@ -13,6 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowznight&label=Profile%20views&color=0e75b6&style=flat" alt="shadowznight" /> </p>
 
 <h3 align="left">Known:</h3>
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
