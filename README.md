@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!;I'm+Shadw.;Welcome+to+my+profile." />
 </p>
 <h1 align="center">Shad<s>o</s>w</h1>
-<h3 align="center">A 20-year-old, gamer and student in Computer science</h3>
+<h3 align="center">A 21-year-old, gamer and student in Computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowznight&label=Profile%20views&color=0e75b6&style=flat" alt="shadowznight" /> </p>
 
